@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+     <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+
+<video autoplay muted loop playsinline id="bgVideo">
+    <source src="static/images/Matrix.mp4" type="video/mp4">
+    Your browser does not support HTML5 video.
+</video>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="certifications.html">Certifications</a>
+    <a href="contact.html">Contact</a>
+     <a href="blog.html">Blog</a>
+</nav>
+
+<div class="container">
+<h1>Featured Cybersecurity Projects</h1>
+
+<p class="intro-text">
+    This portfolio showcases practical cybersecurity projects focused on security monitoring, threat detection, incident analysis, and offensive security testing. The work reflects my ability to investigate security events, simulate attack techniques, and develop detection strategies aligned with real-world SOC operations.
+</p>
+
+<section class="project">
+    <h2>1. Cloud SIEM & Incident Detection Lab (Microsoft Sentinel)</h2>
+    <p>
+       Implemented a cloud-based security monitoring environment using Microsoft Azure and Microsoft Sentinel to detect and respond to security incidents. Configured data connectors (Azure Activity, Microsoft Defender for Cloud, Threat Intelligence) to ingest security logs and created analytics rules to detect suspicious activities and generate alerts. Investigated and responded to simulated incidents using playbooks, workbooks, and threat hunting queries, while analyzing alerts and identifying false positives.
+    </p>
+    <p><strong>Skills:</strong> SIEM Monitoring, Security Incident Detection & Response, Threat Hunting, Log Analysis, Incident Investigation, Security Automation.</p>
+    <p><a href="https://github.com/yourusername/threat-hunting-elk" target="_blank">View Project on GitHub</a></p>
+</section>
+<section class="project">
+    <h2>2. Cybersecurity Incident Response & Risk Management Projects</h2>
+    <p>
+        Developed a comprehensive cybersecurity response and risk management framework that included a ransomware incident response plan, phishing attack tabletop exercise, security playbook, and organizational risk assessment model. Simulated real-world cyber incidents to practice threat detection, containment, eradication, recovery, and post-incident analysis while improving coordination between security teams. The project also incorporated risk assessment matrices, mitigation strategies, and response workflows aligned with industry security practices to strengthen organizational resilience against cyber threats.
+    </p>
+    <p><strong>Skills:</strong> Incident Response Planning, Risk Assessment & Mitigation, Threat Analysis, Security Operations, Business Continuity Planning</p>
+    <p><a href="https://github.com/yourusername/subenum-tool" target="_blank">View Project on GitHub</a></p>
+</section>
+<section class="project">
+    <h2>3. Network Infrastructure, Routing & Security Implementation (Cisco & Palo Alto)</h2>
+    <p>
+       Designed and configured enterprise network infrastructures in virtual lab environments, implementing secure topologies, device authentication, and routing protocols using Cisco Packet Tracer and VMware environments. Configured static and dynamic routing protocols (RIP, OSPF, and EIGRP) to enable communication between multiple networks and tested connectivity using routing tables and network diagnostics. Implemented network security controls including firewall segmentation, VPN tunnels, RSA/SSH authentication, and intrusion detection systems, while performing traffic analysis and penetration testing to identify vulnerabilities such as insecure FTP credential transmission.
+    </p>
+    <p><strong>Skills:</strong>Network Design & Implementation, Routing Protocol Configuration, Network Security Architecture, Intrusion Detection & Traffic Analysis, VPN Deployment, Ethical Hacking Fundamentals, Cisco Packet Tracer, Palo Alto Firewall, SNORT IDS, Wireshark, CentOS Linux, VMware/vSphere, GlobalProtect VPN, SSH/RSA Authentication, IPsec VPN, Routing Protocols (RIP, OSPF, EIGRP)</p>
+    <p><a href="https://github.com/yourusername/threat-hunting-elk" target="_blank">View Project on GitHub</a></p>
+</section>
+<section class="project">
+    <h2>4. Wireless & Mobile Security Assessment & Penetration Testing</h2>
+    <p>
+       Conducted wireless and mobile security assessments to identify vulnerabilities in enterprise and small-business environments, including rogue access points, weak Wi-Fi authentication, and insecure wireless configurations. Performed wireless penetration testing, packet capture, password-cracking demonstrations, and Bluetooth device enumeration/attacks to analyze real-world attack scenarios. Produced a comprehensive wireless security assessment report with risk analysis and mitigation strategies to strengthen network security posture.
+    </p>
+    <p><strong>Skills:</strong> Wireless Security Testing, Network Vulnerability Assessment, Ethical Hacking, Penetration Testing, Risk Analysis, Kali Linux, Aircrack-ng.</p>
+    <p><a href="https://github.com/yourusername/threat-hunting-elk" target="_blank">View Project on GitHub</a></p>
+</section>
+<section class="project">
+    <h2>5. Windows Server & Active Directory Administration Labs</h2>
+    <p>
+        Implemented a Windows Server enterprise lab environment using Active Directory, where I deployed domain controllers, created organizational units, and managed domain users and member servers. Configured Group Policy Objects (GPOs) to control user environments and enforce security policies across the domain. Implemented file system permissions and role-based access control (RBAC) to secure shared resources following the principle of least privilege. Also configured WSUS for centralized patch management and performed Active Directory backup and authoritative restore to demonstrate disaster recovery and system resilience.
+    </p>
+    <p><strong>Skills:</strong> Active Directory Administration, Identity & Access Management, Group Policy Management, File System Security, Disaster Recovery, Windows Server Administration.</p>
+    <p><a href="https://github.com/yourusername/ad-attack-lab" target="_blank">View Project on GitHub</a></p>
+</section>
+<section class="project">
+    <h2>6. Network Scanning & Encryption Security Labs (Kali Linux)</h2>
+    <p>
+        Built a virtual cybersecurity lab using Kali Linux and Metasploitable2 to practice core information security concepts including network scanning, encryption, and vulnerability analysis. Performed network discovery using fping and Nmap, identified live hosts, enumerated services, and analyzed vulnerabilities such as insecure Telnet communications. Implemented file encryption and decryption using OpenSSL (AES-256, DES-EDE) and explored symmetric encryption concepts including XOR encryption and key management.
+    </p>
+    <p><strong>Skills:</strong> Network Scanning, Vulnerability Identification, Cryptography Fundamentals, Encryption & Decryption, Network Enumeration, Kali Linux, Nmap, fping, nbtscan, OpenSSL, Metasploitable2, VMware Workstation</p>
+    <p><a href="https://github.com/yourusername/web-pentest-dvwa-juiceshop" target="_blank">View Project on GitHub</a></p>
+</section>
+
+</div>
+
+<!-- Scroll Buttons -->
+<button onclick="scrollToTop()" id="scrollTopBtn" title="Go to top">↑</button>
+
+<!-- Load external JS -->
+<script src="static/js/main.js"></script>
+</body>
+</html>
