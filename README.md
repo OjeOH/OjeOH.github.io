@@ -1,20 +1,19 @@
-**🌐 Johnson Oje – Cybersecurity Portfolio Website**
+**🌐 Opeoluwa Hezekiah Oje – Cybersecurity Portfolio Website**
 
-Welcome to my personal portfolio website, hosted using **GitHub Pages** at: 👉 [https://ojejp.github.io](https://ojejp.github.io)
+Welcome to my personal portfolio website, hosted using **GitHub Pages** at: 👉 [https://ojeoh.github.io](https://ojeoh.github.io)
 
-This site highlights my journey, experience, and passion in the fields of **Cybersecurity**, **Information Security**, and **Penetration Testing**. It also serves as a space where I share projects, technical blogs, and educational materials.
+This site highlights my journey, experience, and passion in the fields of **Cybersecurity**, **Information Security**, and **Security Operations**. It also serves as a space where I share projects, technical blogs, and educational materials.
 
 ---
 
 ## 🔍 About Me
 
-I'm Johnson Oje, a **Cybersecurity Specialist** with a strong background in:
+I'm Opeoluwa Oje, a **Cybersecurity Specialist** with a strong background in:
 
-  🔐 **Information Security & Penetration Testing** &nbsp; &nbsp; &nbsp;
-  💻 **Python Development & Dashboard Design** &nbsp; &nbsp; &nbsp;
-  🔍  **Penetration Testings** &nbsp; &nbsp; &nbsp;
+  🔐 **Information Security & Threat Hunting** &nbsp; &nbsp; &nbsp;
+  🔍  **Security Operations Centre** &nbsp; &nbsp; &nbsp;
 
-I hold an MSc in Information Security (with distinction) from **ITMO University, Russia**, and a BSc in Information Technology (with honors) from **Methodist University College, Ghana**.
+I hold two PGcerts in Information Technology Network Security & Cybersecurity Response Planning (with distinction) from **Conestoga College Waterloo, Canada**, and a BSc in Computer Science (with honors) from **Catholic University College, Ghana** affiliated to **University of Ghana, Legon**.
 
 I'm passionate about protecting digital assets, sharing knowledge, and building accessible tech solutions that solve real-world problems.
 
@@ -31,18 +30,19 @@ I'm passionate about protecting digital assets, sharing knowledge, and building 
 
 🚀 How to View the Site
 
-The site is publicly available at: 🔗 [https://ojejp.github.io](https://ojejp.github.io)
+The site is publicly available at: 🔗 [https://ojeoh.github.io](https://ojeoh.github.io)
 
 To view locally:
 
 ```bash
-git clone https://github.com/ojejp/ojejp.github.io.git
-cd ojejp.github.io
+git clone https://github.com/ojeoh/ojeoh.github.io.git
+cd ojeoh.github.io
 open index.html  # or use Live Server in VSCode
 ````
 
 ---
 
+<!--
 🛡️ Featured Projects
 
   **🔍 Crime Data Dashboard:** A machine learning-powered dashboard for analyzing homicide trends in the U.S.<br><br>
@@ -52,15 +52,11 @@ open index.html  # or use Live Server in VSCode
 
 More projects and write-ups are available on the [Projects](https://ojejp.github.io/projects.html) page.
 
+
 ---
+--> 
 
-📰 Latest Blog Topics
-
-* How I Used Streamlit + ML to Track Crime Patterns
-* Getting Started with GitHub as a Cybersecurity Professional
-
-
-Visit the [Blog](https://ojejp.github.io/blog.html) page for articles and updates.
+Visit the [Blog](https://ojeoh.github.io/blog.html) page for articles and updates.
 
 ---
 
@@ -68,10 +64,10 @@ Visit the [Blog](https://ojejp.github.io/blog.html) page for articles and update
 
 Let’s connect:
 
-  🌐 Website: [https://ojejp.github.io](https://ojejp.github.io)<br> <br>
-  📧 Email: [pamilerinoje1@gmail.com](mailto:pamilerinoje1@gmail.com)<br> <br>
-  💼 LinkedIn: [linkedin.com/in/johnsonoje](https://www.linkedin.com/in/johnson-pamilerin-oje/)<br> <br>
-  🐦 Twitter: [@pilotoje1](https://twitter.com/pilotoje1)
+  🌐 Website: [https://ojeoh.github.io](https://ojeoh.github.io)<br> <br>
+  📧 Email: [opeoluwaoje1@gmail.com](mailto:opeoluwaoje1@gmail.com)<br> <br>
+  💼 LinkedIn: [linkedin.com/in/opeoluwaoje](https://www.linkedin.com/in/opeoluwaoje/)<br> <br>
+  
 
 ---
 
